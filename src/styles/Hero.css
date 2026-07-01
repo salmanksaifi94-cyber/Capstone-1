@@ -6,6 +6,13 @@
   padding: 100px 0 80px;
   animation: fadeInUp 0.8s ease;
   position: relative;
+  overflow: hidden;
+  border-radius: 32px;
+  background: linear-gradient(180deg, rgba(15, 10, 30, 0.92), rgba(15, 10, 30, 0.82)), url('../assets/hero.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-blend-mode: overlay;
 }
 
 .hero::before {

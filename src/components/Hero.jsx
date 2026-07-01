@@ -10,7 +10,7 @@ function Hero() {
         <a href="#booking" className="btn btn-primary">✨ Glow Up Your Stay</a>
       </div>
       <div className="hero-image">
-        <img src="https://images.unsplash.com/photo-1501117716987-c8b71efca0a7?auto=format&fit=crop&w=900&q=80" alt="Luxury hotel lobby" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMiyCRTxAU1Jvx9qX5KqeJGdMroyGkrO-8Shmox_DSqC78suNwmJIr6no&s=10" alt="Luxury hotel lobby" />
       </div>
     </section>
   );
